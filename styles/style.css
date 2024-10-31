@@ -2,6 +2,12 @@
 .bg-gradient {
     background: linear-gradient(0.00 deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
 }
+.manrope {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
 .discuss{
     background-image: url(../assets/bg.jpg);
 }
